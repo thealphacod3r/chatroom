@@ -1,2 +1,2 @@
-# chatroom
-Chatroom for Anonymous Texting!
+# Chatroom
+An Anonymous chatting room where you can invite your friends to come and chat.
